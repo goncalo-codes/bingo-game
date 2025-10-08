@@ -59,7 +59,7 @@ git clone https://github.com/goncalo-codes/bingo-game.git
 
 ```text
 1. Open 'Bingo.sln' in Visual Studio 2022
-2. Build the solution (Build > Build Solution)
+2. Build the solution (Build > Build Solution) for check errors [Optional]
 3. Run the app (Start > Play)
 ```
 
@@ -76,7 +76,7 @@ bingo-game/
 │   ├─ References/      # Project references
 │   ├─ Program.cs       # Entry point
 │   └─ ...              # Other logic files
-├─ assets/              # GIFs and screenshots
+├─ assets/              # GIFs and banner
 ├─ LICENSE
 └─ README.md
 ```

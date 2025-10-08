@@ -1,0 +1,133 @@
+C:\Users\35193\Desktop\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\35193\Desktop\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\35193\Desktop\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\35193\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+C:\Users\35193\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form1.resources
+C:\Users\35193\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Users\35193\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\Users\35193\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\35193\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\35193\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\35193\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form2.resources
+C:\Users\35193\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form3.resources
+C:\Users\35193\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form4.resources
+C:\Users\a22308051\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csprojAssemblyReference.cache
+C:\Users\a22308051\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form1.resources
+C:\Users\a22308051\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form2.resources
+C:\Users\a22308051\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form3.resources
+C:\Users\a22308051\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form4.resources
+C:\Users\a22308051\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Users\a22308051\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\Users\a22308051\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\a22308051\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\a22308051\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\a22308051\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\a22308051\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\a22308051\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\Wolfy\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+C:\Users\Wolfy\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form1.resources
+C:\Users\Wolfy\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form2.resources
+C:\Users\Wolfy\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form3.resources
+C:\Users\Wolfy\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form4.resources
+C:\Users\Wolfy\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Users\Wolfy\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\Users\Wolfy\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\Wolfy\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\Wolfy\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\Wolfy\Desktop\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\Wolfy\Desktop\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\Wolfy\Desktop\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\Wolfy\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form5.resources
+C:\Users\Wolfy\Desktop\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form6.resources
+C:\Users\35193\Desktop\trabalho bingo\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\35193\Desktop\trabalho bingo\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\35193\Desktop\trabalho bingo\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\35193\Desktop\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+C:\Users\35193\Desktop\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form1.resources
+C:\Users\35193\Desktop\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form2.resources
+C:\Users\35193\Desktop\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form3.resources
+C:\Users\35193\Desktop\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form4.resources
+C:\Users\35193\Desktop\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form5.resources
+C:\Users\35193\Desktop\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form6.resources
+C:\Users\35193\Desktop\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Users\35193\Desktop\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\Users\35193\Desktop\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\35193\Desktop\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\35193\Desktop\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\lmori\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\lmori\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\lmori\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\lmori\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+C:\Users\lmori\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form1.resources
+C:\Users\lmori\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form2.resources
+C:\Users\lmori\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form3.resources
+C:\Users\lmori\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form4.resources
+C:\Users\lmori\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form5.resources
+C:\Users\lmori\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Form6.resources
+C:\Users\lmori\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Users\lmori\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\Users\lmori\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\lmori\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\lmori\Downloads\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\35193\Desktop\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+C:\Users\35193\Desktop\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Users\35193\Desktop\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\Users\35193\Desktop\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\35193\Desktop\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\35193\Desktop\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\35193\Desktop\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\35193\Desktop\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\35193\Desktop\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\35193\Desktop\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Menu.resources
+C:\Users\35193\Desktop\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Quantidade_Jogadores.resources
+C:\Users\35193\Desktop\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Insersão_Jogadores.resources
+C:\Users\35193\Desktop\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Jogo_2Jogadores.resources
+C:\Users\35193\Desktop\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Jogo_3jogadores.resources
+C:\Users\35193\Desktop\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Jogo_4jogadores.resources
+C:\Users\35193\Desktop\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Informações.resources
+C:\Users\35193\Desktop\Guardar\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.exe.config
+C:\Users\35193\Desktop\Guardar\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\35193\Desktop\Guardar\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\35193\Desktop\Guardar\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+C:\Users\35193\Desktop\Guardar\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Informações.resources
+C:\Users\35193\Desktop\Guardar\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Menu.resources
+C:\Users\35193\Desktop\Guardar\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Quantidade_Jogadores.resources
+C:\Users\35193\Desktop\Guardar\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Insersão_Jogadores.resources
+C:\Users\35193\Desktop\Guardar\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Jogo_2Jogadores.resources
+C:\Users\35193\Desktop\Guardar\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Jogo_3jogadores.resources
+C:\Users\35193\Desktop\Guardar\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Jogo_4jogadores.resources
+C:\Users\35193\Desktop\Guardar\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+C:\Users\35193\Desktop\Guardar\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+C:\Users\35193\Desktop\Guardar\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\35193\Desktop\Guardar\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\35193\Desktop\Guardar\trabalhoBingoBONITO\trabalho bingo\trabalho bingo\Bingo\Bingo\obj\Debug\Bingo.pdb
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\Bingo\Bingo\bin\Debug\Bingo.exe.config
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\Bingo\Bingo\bin\Debug\Bingo.exe
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\Bingo\Bingo\bin\Debug\Bingo.pdb
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\Bingo\Bingo\obj\Debug\Bingo.Informações.resources
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\Bingo\Bingo\obj\Debug\Bingo.Menu.resources
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\Bingo\Bingo\obj\Debug\Bingo.Quantidade_Jogadores.resources
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\Bingo\Bingo\obj\Debug\Bingo.Insersão_Jogadores.resources
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\Bingo\Bingo\obj\Debug\Bingo.Jogo_2Jogadores.resources
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\Bingo\Bingo\obj\Debug\Bingo.Jogo_3jogadores.resources
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\Bingo\Bingo\obj\Debug\Bingo.exe
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\Bingo\Bingo\obj\Debug\Bingo.pdb
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\src\bin\Debug\Bingo.exe.config
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\src\bin\Debug\Bingo.exe
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\src\bin\Debug\Bingo.pdb
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\src\obj\Debug\Bingo.csproj.AssemblyReference.cache
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\src\obj\Debug\Bingo.Informações.resources
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\src\obj\Debug\Bingo.Menu.resources
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\src\obj\Debug\Bingo.Quantidade_Jogadores.resources
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\src\obj\Debug\Bingo.Insersão_Jogadores.resources
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\src\obj\Debug\Bingo.Jogo_2Jogadores.resources
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\src\obj\Debug\Bingo.Jogo_3jogadores.resources
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\src\obj\Debug\Bingo.Properties.Resources.resources
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\src\obj\Debug\Bingo.csproj.GenerateResource.cache
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\src\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\src\obj\Debug\Bingo.exe
+D:\faculdade\trabalhos_institucionais\Programação\projeto_bingo\src\obj\Debug\Bingo.pdb

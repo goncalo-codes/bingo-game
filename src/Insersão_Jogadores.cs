@@ -48,7 +48,6 @@ namespace Bingo
             {
                 pictureBox3.Visible = true;
                 textBox3.Visible = true;
-                textBox4.Visible = true;
                 button1.Visible = false;
                 button3.Visible= false;
                 button4.Visible = true;
@@ -64,10 +63,8 @@ namespace Bingo
             //strings para colocar o nome dos jogadores aparecer no form seguinte a partir do textbox
             string nome1 = textBox1.Text;
             string nome2 = textBox2.Text;
-            string nome3 = textBox3.Text;
-            string nome4 = textBox4.Text;
 
-            Jogo_2Jogadores form4 = new Jogo_2Jogadores(nome1, nome2, nome3, nome4);
+            Jogo_2Jogadores form4 = new Jogo_2Jogadores(nome1, nome2);
             form4.Show();
             this.Hide();
         }
@@ -77,9 +74,8 @@ namespace Bingo
             string nome1 = textBox1.Text;
             string nome2 = textBox2.Text;
             string nome3 = textBox3.Text;
-            string nome4 = textBox4.Text;
 
-            Jogo_3jogadores form5 = new Jogo_3jogadores(nome1, nome2, nome3, nome4);
+            Jogo_3jogadores form5 = new Jogo_3jogadores(nome1, nome2, nome3);
             form5.Show();
             this.Hide();
         }

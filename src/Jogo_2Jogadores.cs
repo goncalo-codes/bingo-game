@@ -19,7 +19,7 @@ namespace Bingo
         int rand1 = 0;
         string jogador1 = null;
         string jogador2 = null;
-        public Jogo_2Jogadores(string nome1, string nome2, string nome3, string nome4)
+        public Jogo_2Jogadores(string nome1, string nome2)
         {
             InitializeComponent();
             System.Media.SoundPlayer sp = new System.Media.SoundPlayer("jogo_sound.wav");

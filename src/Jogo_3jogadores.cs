@@ -20,7 +20,7 @@ namespace Bingo
         string jogador1 = null;
         string jogador2 = null;
         string jogador3 = null;
-        public Jogo_3jogadores(string nome1, string nome2, string nome3, string nome4)
+        public Jogo_3jogadores(string nome1, string nome2, string nome3)
         {
 
             InitializeComponent();

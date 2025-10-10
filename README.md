@@ -15,7 +15,7 @@
 
 ## 📝 Short Description
 
-**Bingo Game** is a Windows Forms application developed as a **personal learning project** to strengthen skills in <i>C# programming, GUI design, and structured project organization</i>. 
+**Bingo Game** is a Windows Forms application developed as an **acacdemic project** to strengthen skills in <i>C# programming, GUI design, and structured project organization</i>. 
 Includes **interactive player setup, automatic line and bingo detection, and real-time visual feedback** for the game flow.
 
 **Additional feature:** Click the **<i>"i"</i> icon** in-game to see instructions on how to play.

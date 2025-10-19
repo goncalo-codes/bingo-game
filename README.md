@@ -77,6 +77,7 @@ bingo-game/
 │   ├─ Program.cs       # Entry point
 │   └─ ...              # Other logic files
 ├─ assets/              # GIFs and banner
+├─ Bingo.sln            # Enter in the project
 ├─ LICENSE
 └─ README.md
 ```

@@ -22,7 +22,7 @@ Includes **interactive player setup, automatic line and bingo detection, and rea
 
 ---
 
-## 🎞️ GIFs / Screenshots
+## 🎞️ GIFs
 
 **<h3>1️⃣ Game start & player setup</h3>**  
 <p align="left">

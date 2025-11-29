@@ -53,7 +53,7 @@ Includes **interactive player setup, automatic line and bingo detection, and rea
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/goncalo-codes/bingo-game.git
+git clone https://github.com/goncalo-f-oliveira/bingo-game.git
 ```
 - Open & Run:
 
